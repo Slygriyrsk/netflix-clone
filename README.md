@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📬
 
-For any questions or feedback, feel free to reach out to your-slygrin005@gmail.com.
+For any questions or feedback, feel free to reach out to slygrin005@gmail.com.
