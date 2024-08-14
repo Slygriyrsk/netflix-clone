@@ -6,9 +6,11 @@ A responsive Netflix website clone built with HTML, CSS, and JavaScript. This pr
 
 - **Responsive Design**: Optimized for various screen sizes and devices.
 - **Language Toggle**: Switch between different languages using JavaScript.
+- **Forgot Password Functionality**: Users can reset their password using NodeMailer. An email is sent to the registered email address with a reset link.
+- **User Authentication**: Allow users to sign up, log in, and manage their accounts.
 - **Dynamic Content**: Placeholder for integrating dynamic movie data.
+- **Database Connection**: Uses PosgreSql for fetching the users data for login, logout sessions and also generating tokens for the forgot password functionality to be used.
 - **Search Functionality**: (Planned) Search for movies or TV shows.
-- **User Authentication**: (Planned) Allow users to sign up, log in, and manage their accounts.
 - **Watchlist**: (Planned) Users can add and manage their favorite movies/shows.
 
 ## Technologies Used 💻
