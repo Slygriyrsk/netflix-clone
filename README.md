@@ -19,7 +19,7 @@ A responsive Netflix website clone built with HTML, CSS, and JavaScript. This pr
 ![API](https://img.shields.io/badge/API-Optional-lightgrey)
 
 - **HTML**: For structuring the content.  `#HTML`
-- **CSS**: For styling the layout and design. `#CSS
+- **CSS**: For styling the layout and design. `#CSS`
 - **JavaScript**: For interactive elements and functionality. `#JS`
 - **[Optional] API**: For fetching dynamic movie/show data (e.g., TMDb API). `#API`
 
@@ -68,4 +68,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact 📬
 
-For any questions or feedback, feel free to reach out to your-slygrin005@gmail.com.
+For any questions or feedback, feel free to reach out to slygrin005@gmail.com.
